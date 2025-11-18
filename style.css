@@ -1,0 +1,12 @@
+.gradient-text {
+  /* Contoh kode gradien yang kita buat sebelumnya */
+  background-image: linear-gradient(to right, #2c87f8, #0a6fec);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.text-justify {
+  text-align: justify;
+}
